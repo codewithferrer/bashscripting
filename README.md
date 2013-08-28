@@ -1,4 +1,4 @@
 bashscripting
 =============
 
-Ejemplos de Bash Scripting publicados en www.nosinmiubuntu.com
+Ejemplos de Bash Scripting publicados en http://www.nosinmiubuntu.com
